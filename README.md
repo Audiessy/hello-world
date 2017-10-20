@@ -1,2 +1,3 @@
 # hello-world
-First time! Let's do this.
+
+Hi! This is Audie. Starting to learn a new skill.
